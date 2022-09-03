@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on websites and applications at Astrosoft and Biskit Agency...
+- 🔭 I’m currently working on websites and applications at Astrosoft and Biskit Agency.
 - 🌱 I’m currently learning Backend Development using Node Js and databases.
 - 👯 I’m looking to collaborate on building a MERN stack applications and other Software Enginerring solutions
 - 🤔 I’m looking for help with complex node js integrations,though I am taking time to learn those
