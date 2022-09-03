@@ -1,10 +1,4 @@
-### Hi there 👋
-
-<!--
-**Agent-Ebimene/Agent-Ebimene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### Hi there, I am Agent Ebimene 👋
 - 🔭 I’m currently working on websites and applications at Astrosoft and Biskit Agency.
 - 🌱 I’m currently learning Backend Development using Node Js and databases.
 - 👯 I’m looking to collaborate on building a MERN stack applications and other Software Enginerring solutions
@@ -15,4 +9,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love challenges and Mathematics
 --⚡I am open to joining any team which focuses on deep application of Engineering processes in their development
 --🔭 I studied Engineering
->
