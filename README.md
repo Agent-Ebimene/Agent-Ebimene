@@ -1,7 +1,7 @@
 ### Hi there, I am Agent Ebimene 👋
-- 🔭 I’m currently working on websites and applications at Astrosoft and Biskit Agency.
-- 🌱 I’m currently learning Backend Development using Node Js and databases.
-- 👯 I’m looking to collaborate on building a MERN stack applications and other Software Enginerring solutions
+- 🔭 I’m currently working on a movie recommendation platform with an Estonian company,Hint.
+- 🌱 I create endpoints using Prisma and create graphql mutations and queries.These endpoints are integrated to the frontend in React,Typescript and Tailwind 
+- 👯 I’m looking to collaborate on working a MERN stack applications and other Software Enginerring solutions
 - 🤔 I’m looking for help with complex node js integrations,though I am taking time to learn those
 - 💬 Ask me about Javascript and building attractive UIs
 - 📫 How to reach me: on Linkedin:https://www.linkedin.com/in/ebimene-agent
